@@ -16,6 +16,6 @@
     "eject": "react-scripts eject"
   },
   "devDependencies": {
-    "webpack-cli": "^2.0.14"
+    "webpack-cli": "^2.0.15"
   }
 }
